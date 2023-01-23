@@ -1,0 +1,4 @@
+funcion7
+{
+  Write-Host "Have a nice day" -ForegroundColor Green
+}
