@@ -1,4 +1,4 @@
-function {
+function funcion7 {
   echo "Hello world!"
   Write-Host "Hello World!"
 }
